@@ -1,0 +1,33 @@
+# Build artifacts
+build/
+cmake-build-*/
+*.exe
+*.o
+*.obj
+*.out
+*.app
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test artifacts
+*.log
+test_output/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+
+# Project-specific persistent data
+projects/*/data/*.dat
+projects/*/data/*.bin
