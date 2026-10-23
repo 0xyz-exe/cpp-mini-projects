@@ -2,6 +2,22 @@
 
 A curated collection of 15 practical C++ projects covering fundamentals, OOP, algorithms, file handling, systems programming, and concurrency.
 
+Repository: https://github.com/0xyz-exe/cpp-mini-projects
+
+## Screenshots
+
+### Sorting Algorithm Visualizer (CLI)
+![Sorting visualizer](docs/screenshots/01_sorting_visualizer.png)
+
+### Local HTTP Server & Request Handling
+![HTTP server](docs/screenshots/02_http_server.png)
+
+### CLI Task & To-Do List Manager
+![To-do CLI](docs/screenshots/03_todo_cli.png)
+
+### Interactive Tic-Tac-Toe Game
+![Tic-tac-toe](docs/screenshots/04_tictactoe.png)
+
 **Educational repository demonstrating modern C++17 development practices.**
 
 [![Language](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://isocpp.org/)
