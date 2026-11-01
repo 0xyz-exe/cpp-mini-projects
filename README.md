@@ -6,16 +6,20 @@ Repository: https://github.com/0xyz-exe/cpp-mini-projects
 
 ## Screenshots
 
-### Sorting Algorithm Visualizer (CLI)
+### 1. Sorting Algorithm Visualizer (CLI)
+Visualisasi eksekusi algoritma sorting langkah demi langkah (Bubble, Insertion, Merge, Quick Sort) dengan pelacakan swap, jumlah perbandingan, dan benchmark efisiensi waktu:
 ![Sorting visualizer](docs/screenshots/01_sorting_visualizer.png)
 
-### Local HTTP Server & Request Handling
+### 2. Local HTTP Server & Request Handling
+Server HTTP lokal berkinerja tinggi berbasis soket C++17 non-blocking dengan thread pool, logging request milidetik, dan pertahanan terhadap path traversal attacks:
 ![HTTP server](docs/screenshots/02_http_server.png)
 
-### CLI Task & To-Do List Manager
+### 3. CLI Task & To-Do List Manager
+Aplikasi terminal manajemen tugas berbasis file I/O biner persisten (`tasks.dat`) dengan filter prioritas (High, Medium, Low) dan pelacakan status pengerjaan:
 ![To-do CLI](docs/screenshots/03_todo_cli.png)
 
-### Interactive Tic-Tac-Toe Game
+### 4. Interactive Tic-Tac-Toe Game
+Permainan papan klasik Tic-Tac-Toe berbasis console dengan array memori tetap (`std::array<char, 9>`), deteksi pemenang otomatis, dan pencatatan statistik sesi:
 ![Tic-tac-toe](docs/screenshots/04_tictactoe.png)
 
 **Educational repository demonstrating modern C++17 development practices.**
